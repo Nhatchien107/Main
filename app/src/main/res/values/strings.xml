@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FOOD APP</string>
+    <string name="next">Next</string>
+    <string name="default_web_client_id" translatable="true">527040693502-doe45c9tke4sfh1qiob9ushcib2n9ebg.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
